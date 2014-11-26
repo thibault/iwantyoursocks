@@ -22,3 +22,8 @@ Attention ! avec des chaussettes à pois, on affiche une décontraction qui fri
 
 À réserver pour le week-end ou les veilles de vacances, donc.
 
+### Les chaussettes à motifs illustrés
+
+Votre grand-mère vous a offert une paire de chaussettes illustrées des rennes du père noël ?
+
+Vous pouvez éventuellement porter cette paire entre le 24 décembre et le 1er janvier. En dehors de cette période, ce serait faire preuve d'un exceptionnel mauvais goût.
