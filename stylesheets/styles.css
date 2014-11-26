@@ -688,8 +688,7 @@ header p {
 
 #banner {
   z-index: 100;
-  left: 0;
-  right: 0;
+  width: 100%;
   height: 50px;
   margin-right: -382px;
   position: fixed;
@@ -708,7 +707,7 @@ header p {
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 }
-#banner .button {
+#banner ul li a {
   border: 1px solid #dba500;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#ffe788, #ffce38);
@@ -737,7 +736,7 @@ header p {
   display: inline-block;
   text-align: center;
 }
-#banner .button:hover {
+#banner ul li a:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
   background: -webkit-linear-gradient(#ffe788, #ffe788);
   background: -moz-linear-gradient(#ffe788, #ffe788);
@@ -746,39 +745,17 @@ header p {
   background: linear-gradient(#ffe788, #ffe788);
   background-color: #ffeca0;
 }
-#banner .fork {
-  position: fixed;
-  left: 50%;
-  margin-left: -325px;
-  padding: 10px 12px;
-  margin-top: 6px;
-  line-height: 14px;
-  font-size: 14px;
-  background-color: #FFE788;
-}
-#banner .downloads {
-  float: right;
-  margin: 0 45px 0 0;
-}
-#banner .downloads span {
-  float: left;
-  line-height: 52px;
-  font-size: 90%;
-  color: #9d7f0d;
-  text-transform: uppercase;
-  text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0;
-}
 #banner ul {
   list-style: none;
   height: 40px;
   padding: 0;
   float: left;
-  margin-left: 10px;
+  margin-left: 0px;
 }
 #banner ul li {
   display: inline;
 }
-#banner ul li a.button {
+#banner ul li a {
   background-color: #FFE788;
 }
 #banner #logo {
