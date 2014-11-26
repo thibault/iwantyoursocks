@@ -364,7 +364,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -689,7 +689,7 @@ header p {
 #banner {
   z-index: 100;
   left: 0;
-  right: 50%;
+  right: 0;
   height: 50px;
   margin-right: -382px;
   position: fixed;
