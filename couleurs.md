@@ -13,3 +13,10 @@ chaussettes.
 
 Les couleurs de vos chaussettes doivent permettre de réaliser une transation
 entre vos chaussures et votre pantalon.
+
+## Assortir au pantalon
+
+La manière la moins risquée d'assortir vos chaussettes, c'est de les
+sélectionner dans la même couleur que votre pantalon.
+
+Exemple : Chaussures marrons + pantalon gris = chaussettes grises.
