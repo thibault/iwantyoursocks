@@ -35,3 +35,8 @@ votre garde-robe.
 
 Exemple : chaussures noires, pantalon gris, chaussettes rouges avec une cravate
 rouge.
+
+## Le cas des chaussettes blanches
+
+Ne jamais porter de chaussettes blanches avec une tenue formelle est une règle
+élémentaire. Et pourquoi pas des sandales pendant qu'on y est ?
