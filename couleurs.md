@@ -26,3 +26,12 @@ Exemple : Chaussures marrons + pantalon gris = chaussettes grises.
 Autre moyen de réaliser une transition : choisir une couleur intermédiaire.
 
 Exemple : Chaussures noires + pantalon gris moyen = chaussettes anthracite.
+
+## Choisir la fantaise
+
+Si vous êtes d'humeur fantasque, vous pouvez sélectionner une couleur de
+chaussettes avec un important contraste, mais qui rappelle un autre élément de
+votre garde-robe.
+
+Exemple : chaussures noires, pantalon gris, chaussettes rouges avec une cravate
+rouge.
